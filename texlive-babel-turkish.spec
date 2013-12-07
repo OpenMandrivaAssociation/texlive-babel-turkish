@@ -6,7 +6,7 @@
 # catalog-version 1.2m
 Name:		texlive-babel-turkish
 Version:	1.2m
-Release:	3
+Release:	4
 Summary:	Babel support for Turkish documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/turkish
