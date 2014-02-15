@@ -1,12 +1,12 @@
-# revision 30297
+# revision 32676
 # category Package
 # catalog-ctan /macros/latex/contrib/babel-contrib/turkish
-# catalog-date 2013-05-02 15:12:34 +0200
+# catalog-date 2014-01-14 18:49:01 +0100
 # catalog-license lppl1.3
-# catalog-version 1.2m
+# catalog-version 1.3
 Name:		texlive-babel-turkish
-Version:	1.2m
-Release:	5
+Version:	1.30
+Release:	1
 Summary:	Babel support for Turkish documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/turkish
@@ -34,6 +34,7 @@ language.
 #-----------------------------------------------------------------------
 %files
 %{_texmfdistdir}/tex/generic/babel-turkish/turkish.ldf
+%doc %{_texmfdistdir}/doc/generic/babel-turkish/README
 %doc %{_texmfdistdir}/doc/generic/babel-turkish/turkish.pdf
 #- source
 %doc %{_texmfdistdir}/source/generic/babel-turkish/turkish.dtx
