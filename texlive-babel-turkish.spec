@@ -5,8 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version 1.3b
 Name:		texlive-babel-turkish
-Version:	1.30b
-Release:	4
+Version:	1.3b
+Release:	1
 Summary:	Babel support for Turkish documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/turkish
